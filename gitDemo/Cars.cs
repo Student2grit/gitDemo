@@ -8,5 +8,6 @@ namespace gitDemo
 {
     internal class Cars
     {
+        string rego;
     }
 }
