@@ -12,6 +12,9 @@ namespace gitDemo
         {
             Console.WriteLine("Hello, GitHub.");
             Console.WriteLine("Denmark");
+            Console.WriteLine("brian");
+            Console.WriteLine("Rui");
+
 
             Console.ReadKey();
         }
