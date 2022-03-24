@@ -13,13 +13,13 @@ namespace gitDemo
             Console.WriteLine("Hello, GitHub.");
             Console.WriteLine("Denmark");
             Console.WriteLine("brian");
-            Console.WriteLine("RC now");
+            Console.WriteLine("Rui Chen");
             Console.WriteLine("ALLEN");
             Console.WriteLine("Mohoamd");
             Console.WriteLine("Goodbye World");
             Console.WriteLine("Les");
 
-            Console.WriteLine("To do 300");
+            Console.WriteLine("To do 400");
             Console.ReadKey();
         }
     }
