@@ -14,7 +14,7 @@ namespace gitDemo
             Console.WriteLine("Hello, GitHub.");
             Console.WriteLine("Denmark");
             Console.WriteLine("brian");
-            Console.WriteLine("R");
+            Console.WriteLine("RC");
             Console.WriteLine("ALLEN");
             Console.WriteLine("Mohoamd");
             Console.WriteLine("Goodbye World");
