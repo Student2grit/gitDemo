@@ -10,15 +10,17 @@ namespace gitDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Student List");
             Console.WriteLine("Hello, GitHub.");
             Console.WriteLine("Denmark");
             Console.WriteLine("brian");
-            Console.WriteLine("Rui");
+            Console.WriteLine("R");
             Console.WriteLine("ALLEN");
             Console.WriteLine("Mohoamd");
             Console.WriteLine("Goodbye World");
             Console.WriteLine("Les");
-
+            
+            
             Console.ReadKey();
         }
     }
