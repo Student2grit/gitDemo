@@ -11,6 +11,7 @@ namespace gitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, GitHub.");
+            Console.WriteLine("Welcome everyone.");
             Console.WriteLine("Denmark");
             Console.WriteLine("brian");
             Console.WriteLine("Rui);
@@ -18,7 +19,7 @@ namespace gitDemo
             Console.WriteLine("Mohoamd");
             Console.WriteLine("Goodbye World");
             Console.WriteLine("Les");
-
+        
             Console.WriteLine("To do 400");
             Console.ReadKey();
         }
