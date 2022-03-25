@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace gitDemo
 {
-    internal class Cars
+    internal class Car
     {
         string rego;
+        String brand;
+        string plateNo;
     }
 }
